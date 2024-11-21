@@ -10,8 +10,9 @@ tags: [optimization]
 ## Font Loading Optimization
 ### Avoid using @import
 ```css
-@import url(http://fonts.googleapis.com/earlyaccess/nanumgothic.css);
+@import url(http://fonts.googleapis.com/earlyaccess/nanumgothic.css)
 ```
+
 Browser pauses while `@import` fetches fonts.
 Because after loading font, it loads css.
 <br>
