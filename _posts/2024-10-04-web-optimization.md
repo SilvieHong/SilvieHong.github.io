@@ -16,8 +16,9 @@ tags: [optimization]
 Browser pauses while `@import` fetches fonts.
 Because after loading font, it loads css.
 <br>
+
 It's not a bad way, but it's slow.
-So a better way is to use link, @font-face, and Web Font Loader.
+So a better way is to use link, `@font-face`, and Web Front Loader.
 
 <br>
 
@@ -50,5 +51,5 @@ So a better way is to use link, @font-face, and Web Font Loader.
 </script>
 ```
 
-It looks similar to @import, but it's asynchronous. It's useful when you need detail controlls and it prevents flickering when the font changes. But, slower than using link or @font-face. 
+It looks similar to `@import`, but it's asynchronous. It's useful when you need detail controlls and it prevents flickering when the font changes. But, slower than using link or `@font-face`. 
 
