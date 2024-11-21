@@ -3,7 +3,7 @@ title: How to optimize website
 author: 
 name: SilvieHong
 date: 2024-10-04 13:58:05 +0900
-categories: [Dev Progress, How to _______?]
+categories: [Dev Progress, How to?]
 tags: [optimization]
 ---
 
