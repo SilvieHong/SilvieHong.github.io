@@ -3,8 +3,8 @@ title: HAPPY NEW YEAR
 author:
 name: SilvieHong
 date: 2025-01-14 15:32:00 +0900
-categories: [Thoughts, 2025]
-tags: [2025]
+categories: [Thoughts, "2025"]
+tags: ["2025"]
 ---
 
 # HAPPY NEW YEAR 2025
