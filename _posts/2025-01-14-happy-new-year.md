@@ -1,13 +1,11 @@
 ---
-title: HAPPY NEW YEAR
+title: HAPPY NEW YEAR 2025
 author:
 name: SilvieHong
 date: 2025-01-14 15:32:00 +0900
 categories: [Thoughts, "2025"]
 tags: ["2025"]
 ---
-
-# HAPPY NEW YEAR 2025
 
 I started programming because I love the certainty.
 I had no doubt while studying language. (you know like if-else, for loop, while loop etc...)
